@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ainetoncu.github.io/sitemap.html.gz
+Sitemap: https://ainetoncu.github.io/app/sitemap.html.gz
+Sitemap: https://ainetoncu.github.io/assets/sitemap.html.gz
+Sitemap: https://ainetoncu.github.io/css/sitemap.html.gz
+Sitemap: https://ainetoncu.github.io/includes/sitemap.html.gz
+Sitemap: https://ainetoncu.github.io/item/sitemap.html.gz
+Sitemap: https://ainetoncu.github.io/src/sitemap.html.gz
